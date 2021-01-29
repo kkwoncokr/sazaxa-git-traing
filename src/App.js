@@ -1,15 +1,15 @@
-import logo from './logo.svg';
+import { Container } from "@material-ui/core";
+import PersonIcon from '@material-ui/icons/Person';
+import PeopleIcon from '@material-ui/icons/People';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h2>SAZASXA MEMBERS</h2>
-      <ol>
-        <li>sazxa</li>
-        <li>wenodev</li>
-      </ol>
-    </div>
+    <Container>
+      <h2>SAZAXA MEMBERS <PeopleIcon /></h2>
+      <li>sazxa <PersonIcon /></li>
+      <li>wenodev <PersonIcon /></li>
+    </Container>
   );
 }
 
