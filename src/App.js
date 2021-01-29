@@ -7,6 +7,7 @@ function App() {
       <h2>SAZASXA MEMBERS</h2>
       <ol>
         <li>sazxa</li>
+        <li>wenodev</li>
       </ol>
     </div>
   );
