@@ -8,7 +8,7 @@
 
 - 팀(공용) Repository에서 fork (우측 상단에 위치)
 
-![check](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/723cd596-52b2-47f4-9de0-2054e2497e08/Untitled.png)
+![fork](/img/forkImg.png)
 
 - 원하는 디렉토리 이동 후 git init
 - git clone <나의 저장소> (fork한 저장소)
