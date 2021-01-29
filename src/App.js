@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <ol>
         <li>sazxa</li>
-        <li>weno</li>
+        <li>wenodev</li>
       </ol>
     </div>
   );
