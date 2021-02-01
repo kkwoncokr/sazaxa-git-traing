@@ -11,6 +11,7 @@ function App() {
       <h1>SAZAXA MEMBERS <PeopleIcon /></h1>
       <li>sazxa <PersonIcon /></li>
       <li>wenodev <PersonIcon /></li>
+      <li>kkwondev <PersonIcon /></li>
     </Container>
   );
 }
